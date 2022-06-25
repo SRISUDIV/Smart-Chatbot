@@ -1,0 +1,2 @@
+# Smart-Chatbot
+Smart chatbot  can simulate conversations with the end-users. The end-user can ask/query anything with this application and the chatbot will automatically respond accordingly to the queries/questions. The program has an admin panel where can admin user of this web application will feed the responses for the possible questions that users may ask/query to the chatbot. The admin panel has many features that are related to the chatbot information. 
